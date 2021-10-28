@@ -1,0 +1,42 @@
+.main_div{
+    /* text-align: center; */
+    /* color: white; */
+    display: flex;
+    margin-left: 11%;
+
+
+  
+}
+
+body{
+    background-color: #6259ac;
+}
+button{
+    height: 50px;
+    width: 10%;
+    background-color:#6259ac ;
+    color: white;
+}
+img{
+    height: 250px;
+    width: 60%;
+}
+.sub-div{
+    float: left;
+    color: white;
+
+}
+.d{
+    text-align: center;
+    margin-right: 5;
+    color: white;
+}
+.r{
+    margin-left: 25%;
+}
+.h{
+    margin-left: 13%;
+}
+.t{
+    margin-left: 25%;
+}
